@@ -1,0 +1,10 @@
+{
+  "domain": "custom_icons",
+  "name": "Custom Icons",
+  "documentation": "",
+  "dependencies": ["frontend"],
+  "codeowners": [],
+  "requirements": [],
+  "config_flow": false,
+  "version": "1.0.0"
+}
